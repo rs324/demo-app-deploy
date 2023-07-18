@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/rs324/demo-app
-  newTag: d235d22e364bf8fdfc323299365d84bddc15aae1
+  newTag: 3cf5e94935c3157655f144a52ae87fe1470810cc
