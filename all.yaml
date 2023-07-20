@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/rs324/demo-app:8b9a73094f36d96a01af83326fa2e3bc49a2c2c2
+      - image: ghcr.io/rs324/demo-app:05f78566622e9e5d20dba15de9365ff3acb65ad1
         name: demo-app
         ports:
         - containerPort: 8080
